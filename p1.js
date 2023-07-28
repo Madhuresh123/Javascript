@@ -33,4 +33,6 @@
 //     else
 //     console.log(false);
 
+//Find dulicate character in a string
+
 
